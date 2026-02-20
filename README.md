@@ -1,6 +1,6 @@
 # skim-rpm
 
-This repository contains RPM packaging files for [the skim COPR](https://copr.fedorainfracloud.org/coprs/sisyphus1813/skim/) which hosts an unofficial package for skim-rs. 
+This repository contains RPM packaging files for [the skim COPR](https://copr.fedorainfracloud.org/coprs/sisyphus1813/skim/) which hosts an unofficial package for skim-rs.  
 [skim upstream repository](https://github.com/skim-rs/skim)
 
 ## Installation
