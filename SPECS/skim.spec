@@ -1,5 +1,5 @@
 Name:           skim
-Version:        3.7.0
+Version:        4.0.0
 Release:        1%{?dist}
 Summary:        A powerful fuzzy finder designed to make your workflow faster and more efficient.
 License:        MIT
@@ -54,5 +54,5 @@ install -Dpm0644 shell/key-bindings.* %{buildroot}%{_datadir}/skim/
 %{_datadir}/skim/key-bindings.zsh
 
 %changelog
-* Sun Mar 8 2026 Fedora COPR <sisyphus1813@protonmail.com> - 3.7.0
-- Update to skim 3.7.0
+* Tue Mar 10 2026 Fedora COPR <sisyphus1813@protonmail.com> - 4.0.0
+- Update to skim 4.0.0
